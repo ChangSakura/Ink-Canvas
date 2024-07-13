@@ -1,4 +1,17 @@
 <div align="center">
+This repo has moved to
+
+[https://github.com/InkCanvas/Ink-Canvas-Artistry](https://github.com/InkCanvas/Ink-Canvas-Artistry)
+
+该仓库已经迁移至
+[https://github.com/InkCanvas/Ink-Canvas-Artistry](https://github.com/InkCanvas/Ink-Canvas-Artistry)
+
+<Br />
+<Br />
+<Br />
+<Br />
+<Br />
+<Br />
 
 [![LOGO](Images/Ink%20Canvas%20Artistry.png?raw=true "LOGO")](# "LOGO")
 
